@@ -6,7 +6,7 @@
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
-const guf1ck  = {
+const itzmuri  = {
     pronouns: "Muri Akbari",
     age: 30,
     gender: "Male",
@@ -23,5 +23,5 @@ const guf1ck  = {
 ```
 
 ## 💻 Languages & Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/guf1ck)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/ItzMuri)
 [![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,lua,vscode&theme=dark)](https://github.com/ItzMuri)
