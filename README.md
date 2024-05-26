@@ -23,5 +23,11 @@ const itzmuri  = {
 ```
 
 ## 💻 Languages & Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/ItzMuri)
-[![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,lua,vscode&theme=dark)](https://github.com/ItzMuri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/guf1ck)
+[![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,sqlite,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,arduino,angular,linux,vscode&theme=dark)](https://github.com/guf1ck)
+<br>
+</p>
+  <p align="center">
+  <i>&nbsp; "Too many of us are not living our dreams because we are living our fears...."</i> 
+ </div>
+<a href = "https://github.com/guf1ck"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
