@@ -22,7 +22,7 @@ const itzmuri  = {
 };
 ```
 
-## 💻 Languages & Skills
+## 💻 Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/guf1ck)
 [![Skills](https://skillicons.dev/icons?i=html,css,js,lua,vscode&theme=dark)](https://github.com/guf1ck)
 <br>
