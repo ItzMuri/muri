@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=f9f9f9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+Muri+Akbari;I'm+30+years+old)](https://github.com/ItzMuri)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=f9f9f9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+Muri+Akbari;I'm+31+years+old)](https://github.com/ItzMuri)
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ItzMuri&label=Profile%20views&color=0e75b6&style=flat" alt="ItzMuri" /> </p>
