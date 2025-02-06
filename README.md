@@ -2,7 +2,13 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=f9f9f9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+Muri+Akbari;I'm+30+years+old)](https://github.com/ItzMuri)
 </div>
-    
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ItzMuri&label=Profile%20views&color=0e75b6&style=flat" alt="ItzMuri" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ItzMuri" alt="ItzMuri" /></a> </p>
+
+
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
@@ -21,6 +27,12 @@ const itzmuri  = {
     currentProjects: "itzmuri",
 };
 ```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/@1tsmuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@@1tsmuri" height="30" width="40" /></a>
+<a href="https://discord.gg/4mUvNzDnTq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4mUvNzDnTq" height="30" width="40" /></a>
+</p>
+
 
 ## 💻 Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/guf1ck)
