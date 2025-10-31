@@ -41,7 +41,7 @@ const itzmuri  = {
   <p align="center">
   <i>&nbsp; "Too many of us are not living our dreams because we are living our fears...."</i> 
  </div>
-<a href = "https://itzmuri.tebex.io/category/qbcore"><img src="[https://capsule-render.vercel.app/api?section=footer&type=waving&color=008080" width="100%](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&fontAlign=57&descAlign=0&fontAlignY=17&textBg=false&descAlignY=0)"/>
+<a href = "https://itzmuri.tebex.io/category/qbcore"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=008080" width="100%"/>
 </a>
 
 <p align="center">
