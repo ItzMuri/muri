@@ -47,7 +47,7 @@ const itzmuri  = {
   <a href="https://itzmuri.tebex.io/category/qbcore" target="_blank">
     <img 
       width="420"
-      src="https://github-readme-stats.vercel.app/api?username=ItzMuri&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false"
+      src="https://github-readme-stats.vercel.app/api?username=ItzMuri&count_private=true&show_icons=true&title_color=38d9a9&text_color=ffffff&icon_color=38d9a9&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false"
       alt="ItzMuri GitHub Stats"
     />
   </a>
