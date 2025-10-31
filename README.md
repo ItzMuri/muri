@@ -42,3 +42,10 @@ const itzmuri  = {
   <i>&nbsp; "Too many of us are not living our dreams because we are living our fears...."</i> 
  </div>
 <a href = "https://github.com/guf1ck"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
+
+
+
+<p align="center">
+
+  <a href=https://itzmuri.tebex.io/category/qbcore><img width="420" src=https://github-readme-stats.vercel.app/api?username=ItzMuri&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+</p>
